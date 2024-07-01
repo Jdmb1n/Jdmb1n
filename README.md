@@ -24,10 +24,4 @@
   I am always looking for new ideas and improvements. Every project is an opportunity to learn and grow, and I am proud to deliver solutions that truly make a difference in people's lives.
 </p>
 
-<h2 align="izq">🤝 Open Collaboration</h2>
-
-<p align="izq">
- I am open to collaborations and always looking to connect with other developers and technology enthusiasts.
-</p>
-
 
